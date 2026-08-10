@@ -1,4 +1,4 @@
-# PhScan - 下一代单位端口风险扫描器
+# PhScan - 下一代端口风险扫描器
 
 <div align="center">
 
